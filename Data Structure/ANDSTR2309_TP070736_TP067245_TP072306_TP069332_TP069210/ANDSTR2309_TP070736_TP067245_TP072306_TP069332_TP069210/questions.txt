@@ -1,0 +1,300 @@
+What is a stack?/A data structure that follows Last In First Out (LIFO) principle./10
+What is an algorithm?/A step-by-step procedure for solving a problem./9
+What is the time complexity of binary search?/O(log n)./8
+What is a queue?/A data structure that follows First In First Out (FIFO) principle./7
+What is the time complexity of insertion sort?/O(n^2)./6
+What is recursion?/A technique where a function calls itself./5
+What is the time complexity of merge sort?/O(n log n)./4
+What is a linked list?/A linear data structure where elements are linked using pointers./3
+What is the space complexity of quicksort?/O(log n)./2
+What is a hash table?/A data structure that maps keys to values using a hash function./1
+What is a binary search tree?/A binary tree where each node has at most two children./10
+What is the time complexity of linear search?/O(n)./9
+What is a graph?/A collection of nodes and edges./8
+What is the time complexity of bubble sort?/O(n^2)./7
+What is a priority queue?/A data structure where each element has a priority./6
+What is the space complexity of heap sort?/O(1)./5
+What is a heap?/A binary tree where each parent node is greater than or equal to its children./4
+What is the time complexity of quicksort?/O(n log n)./3
+What is a doubly linked list?/A linked list where each node has pointers to both its previous and next nodes./2
+What is a trie?/A tree data structure used for storing strings./1
+What is the time complexity of selection sort?/O(n^2)./10
+What is a B-tree?/A self-balancing tree data structure./9
+What is a stack frame?/A frame on the call stack used to store function call information./8
+What is the time complexity of radix sort?/O(nk)./7
+What is a circular queue?/A queue where the last element points to the first element./6
+What is a hash collision?/When two different inputs produce the same hash value./5
+What is a disjoint-set data structure?/A data structure that keeps track of a set of elements partitioned into disjoint subsets./4
+What is the time complexity of counting sort?/O(n + k)./3
+What is a trie node?/A node in a trie data structure./2
+What is the space complexity of counting sort?/O(n + k)./1
+What is a red-black tree?/A self-balancing binary search tree./10
+What is the time complexity of bucket sort?/O(n + k)./9
+What is a hash table collision resolution technique?/A method used to resolve collisions in a hash table./8
+What is a graph adjacency matrix?/A 2D array used to represent connections between vertices in a graph./7
+What is the time complexity of shell sort?/Depends on the gap sequence used./6
+What is a graph adjacency list?/A collection of lists used to represent connections between vertices in a graph./5
+What is a graph edge list?/A list of edges in a graph./4
+What is a graph incidence matrix?/A matrix used to represent connections between vertices and edges in a graph./3
+What is a graph incidence list?/A collection of lists used to represent connections between vertices and edges in a graph./2
+What is a graph traversal?/Visiting all the vertices of a graph./1
+What is a tree traversal?/Visiting all the nodes of a tree./10
+What is a breadth-first search (BFS)?/A graph traversal algorithm that visits all vertices in level order./9
+What is a depth-first search (DFS)?/A graph traversal algorithm that explores as far as possible along each branch before backtracking./8
+What is an in-order traversal?/A tree traversal where nodes are visited in the order: left, root, right./7
+What is a pre-order traversal?/A tree traversal where nodes are visited in the order: root, left, right./6
+What is a post-order traversal?/A tree traversal where nodes are visited in the order: left, right, root./5
+What is the height of a binary tree?/The number of edges on the longest path from the root to a leaf./4
+What is the depth of a node in a tree?/The number of edges from the root to the node./3
+What is the minimum number of edges in a tree with n nodes?/n - 1./2
+What is a complete binary tree?/A binary tree where every level, except possibly the last, is completely filled, and all nodes are as far left as possible./1
+What is a full binary tree?/A binary tree where every node has either 0 or 2 children./10
+What is a directed graph?/A graph in which edges have a direction, indicating a one-way relationship between vertices./9
+What is an undirected graph?/A graph in which edges do not have a direction, indicating a two-way relationship between vertices./8
+What is a weighted graph?/A graph in which each edge has an associated weight, representing the cost or distance between vertices./7
+What is an unweighted graph?/A graph in which each edge does not have an associated weight, representing a simple connection between vertices./6
+What is a spanning tree?/A subgraph of a graph that is a tree and includes all the vertices of the original graph./5
+What is a minimum spanning tree (MST)?/A spanning tree of a weighted graph that has the smallest possible sum of edge weights./4
+What is a connected graph?/A graph in which there is a path between every pair of vertices./3
+What is a disconnected graph?/A graph in which there are one or more pairs of vertices with no path between them./2
+What is a planar graph?/A graph that can be drawn in a plane without any edges crossing./1
+What is a bipartite graph?/A graph whose vertices can be divided into two disjoint sets such that no two vertices within the same set are adjacent./10
+What is an Eulerian graph?/A graph that contains a closed walk that covers each edge exactly once, returning to its starting point./9
+What is a Hamiltonian graph?/A graph that contains a Hamiltonian cycle, which is a cycle that visits every vertex exactly once./8
+What is a complete graph?/A graph in which there is a unique edge between every pair of distinct vertices./7
+What is a tree?/A connected acyclic graph with exactly one vertex called the root, and every other vertex has exactly one parent./6
+What is a forest?/A disjoint union of trees, or a collection of trees with no cycles./5
+What is a topological sort?/An ordering of the vertices of a directed graph such that for every directed edge from vertex u to vertex v, u comes before v in the ordering./4
+What is a strongly connected graph?/A directed graph in which there is a directed path from every vertex to every other vertex./3
+What is a weakly connected graph?/A directed graph in which replacing all of its directed edges with undirected edges produces a connected (undirected) graph./2
+What is a cut vertex?/A vertex whose removal increases the number of connected components in the graph./1
+What is a cut edge (bridge)?/An edge whose removal increases the number of connected components in the graph./10
+What is a graph coloring?/An assignment of colors to the vertices of a graph such that no two adjacent vertices have the same color./9
+What is the chromatic number of a graph?/The minimum number of colors needed to color the vertices of a graph so that no two adjacent vertices have the same color./8
+What is a cycle in a graph?/A closed path in a graph, where the first and last vertices are the same./7
+What is a cycle detection algorithm?/An algorithm used to determine whether a graph contains a cycle./6
+What is a minimum spanning tree algorithm?/An algorithm used to find the minimum spanning tree of a graph, such as Prim's algorithm or Kruskal's algorithm./5
+What is a shortest path problem?/A problem of finding the shortest path between two vertices in a graph, where the path length is defined by the sum of the weights of its edges./4
+What is a single-source shortest path algorithm?/An algorithm used to find the shortest paths from a single source vertex to all other vertices in a graph, such as Dijkstra's algorithm or Bellman-Ford algorithm./3
+What is an all-pairs shortest path algorithm?/An algorithm used to find the shortest paths between all pairs of vertices in a graph, such as Floyd-Warshall algorithm./2
+What is a maximum flow problem?/A problem of finding the maximum amount of flow that can be sent from a source vertex to a sink vertex in a flow network./1
+What is a flow network?/A directed graph where each edge has a capacity and represents the maximum amount of flow that can pass through it./10
+What is a flow augmentation?/A process of increasing the flow along a path from the source to the sink in a flow network./9
+What is a residual network?/A network that represents the remaining capacity of edges after some flow has been sent through the network./8
+What is a residual capacity?/The remaining capacity of an edge in a residual network, which is the original capacity minus the flow sent through it./7
+What is a augmenting path?/A path from the source to the sink in a flow network along which flow can be increased./6
+What is a maximum flow algorithm?/An algorithm used to find the maximum flow in a flow network, such as Ford-Fulkerson algorithm or Edmonds-Karp algorithm./5
+What is a bipartite matching problem?/A problem of finding a matching in a bipartite graph where each vertex is incident to exactly one edge in the matching./4
+What is a matching in a graph?/A subset of edges in a graph where no two edges share a common endpoint./3
+What is a vertex cover problem?/A problem of finding the minimum set of vertices that covers all the edges in a graph./2
+What is a traveling salesman problem (TSP)?/A problem of finding the shortest possible route that visits each city exactly once and returns to the origin city./1
+What is a dynamic programming?/A method for solving complex problems by breaking them down into simpler subproblems and solving each subproblem only once./10
+What is a greedy algorithm?/An algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum./9
+What is a divide and conquer algorithm?/An algorithm that breaks a problem into smaller subproblems, solves the subproblems recursively, and then combines their solutions to solve the original problem./8
+What is a backtracking algorithm?/An algorithmic-technique for solving problems by systematically searching through all possible configurations until a solution is found or all possibilities have been explored./7
+What is a branch and bound algorithm?/An algorithmic-technique for solving optimization problems by partitioning the search space into smaller subspaces and bounding the search within those subspaces./6
+What is a brute force algorithm?/A straightforward approach to problem-solving that exhaustively tries every possible solution until a satisfactory one is found./5
+What is a heuristics algorithm?/A problem-solving technique that employs a practical method, not necessarily optimal or perfect, to find a solution to a problem./4
+What is a randomized algorithm?/An algorithm that uses a random number at least once during the computation to make a decision or solve a problem./3
+What is a parallel algorithm?/An algorithm designed to simultaneously execute multiple operations or tasks to solve a problem more quickly by taking advantage of parallel processing./8
+What is a quantum algorithm?/An algorithm that leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computation more efficiently than classical algorithms./9
+What is dynamic memory allocation?/The process of allocating memory during program execution, allowing the program to use memory efficiently./5
+What is a memory leak?/A situation where a program allocates memory but fails to deallocate it, resulting in memory being unavailable for other tasks./6
+What is fragmentation?/A condition where memory is divided into small, non-contiguous blocks, reducing the available contiguous memory./7
+What is virtual memory?/A memory management technique that uses disk space as an extension of RAM, allowing programs to use more memory than physically available./8
+What is paging?/A memory management scheme that divides memory into fixed-size blocks called pages, allowing non-contiguous allocation of memory./9
+What is segmentation?/A memory management scheme that divides memory into variable-size segments, each with its own access rights and attributes./5
+What is thrashing?/A condition where the CPU spends a significant amount of time swapping pages between memory and disk, resulting in poor performance./6
+What is demand paging?/A memory management technique where pages are loaded into memory only when they are needed, reducing unnecessary disk IO./7
+What is page replacement?/A technique used by the operating system to decide which pages to remove from memory when new pages need to be loaded./8
+What is page table?/A data structure used by the operating system to map virtual addresses to physical addresses in virtual memory./9
+What is deadlock?/A situation where two or more processes are unable to proceed because each is waiting for the other to release a resource./5
+What is starvation?/A situation where a process is unable to proceed because it is consistently denied access to resources it needs./6
+What is mutual exclusion?/A property of concurrency control that ensures that only one process can access a resource at a time./7
+What is semaphores?/A synchronization primitive used to control access to shared resources by multiple processes./8
+What is a mutex?/A synchronization primitive used to protect shared resources by allowing only one thread to access them at a time./9
+What is a deadlock prevention?/A strategy to ensure that deadlocks cannot occur by denying or postponing the conditions required for deadlock./5
+What is deadlock avoidance?/A strategy to prevent deadlocks by carefully scheduling resource allocation to avoid circular wait, hold and wait, and other conditions./6
+What is deadlock detection?/A strategy to detect the presence of deadlocks and recover by terminating one or more processes or releasing resources./7
+What is a monitor?/A synchronization construct that allows threads to wait for a condition to become true and signal other threads when the condition is met./8
+What is a condition variable?/A synchronization primitive used with a mutex or monitor to block a thread until a certain condition is satisfied./9
+What is a race condition?/A situation in concurrent programming where the outcome of the execution depends on the relative timing of operations by multiple threads./5
+What is thread safety?/The property of a program or system that ensures correct behavior when accessed simultaneously by multiple threads./6
+What is a critical section?/A section of code that accesses shared resources and must be executed by only one thread at a time./7
+What is parallel computing?/A type of computation in which many calculations or processes are carried out simultaneously./8
+What is concurrency?/The ability of a system to execute multiple tasks concurrently, allowing overlapping execution of tasks./9
+What is a deadlock avoidance?/A strategy to prevent deadlocks by carefully scheduling resource allocation to avoid circular wait, hold and wait, and other conditions./5
+What is a deadlock detection?/A strategy to detect the presence of deadlocks and recover by terminating one or more processes or releasing resources./6
+What is a monitor?/A synchronization construct that allows threads to wait for a condition to become true and signal other threads when the condition is met./7
+What is a condition variable?/A synchronization primitive used with a mutex or monitor to block a thread until a certain condition is satisfied./8
+What is a race condition?/A situation in concurrent programming where the outcome of the execution depends on the relative timing of operations by multiple threads./9
+What is thread safety?/The property of a program or system that ensures correct behavior when accessed simultaneously by multiple threads./5
+What is a critical section?/A section of code that accesses shared resources and must be executed by only one thread at a time./6
+What is parallel computing?/A type of computation in which many calculations or processes are carried out simultaneously./7
+What is concurrency?/The ability of a system to execute multiple tasks concurrently, allowing overlapping execution of tasks./8
+What is a semaphore?/A synchronization primitive that controls access to shared resources by multiple processes, often used in concurrency control./9
+What is mutual exclusion?/A property of concurrency control that ensures that only one process can access a resource at a time./5
+What is starvation?/A situation where a process is unable to proceed because it is consistently denied access to resources it needs./6
+What is deadlock?/A situation where two or more processes are unable to proceed because each is waiting for the other to release a resource./7
+What is a race condition?/A situation in concurrent programming where the outcome of the execution depends on the relative timing of operations by multiple threads./8
+What is thread safety?/The property of a program or system that ensures correct behavior when accessed simultaneously by multiple threads./9
+What is a deadlock detection?/A strategy to detect the presence of deadlocks and recover by terminating one or more processes or releasing resources./5
+What is a condition variable?/A synchronization primitive used with a mutex or monitor to block a thread until a certain condition is satisfied./6
+What is dynamic programming?/A method for solving complex problems by breaking them down into simpler subproblems and solving each subproblem only once./5
+What is a greedy algorithm?/An algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum./6
+What is a divide and conquer algorithm?/An algorithm that breaks a problem into smaller subproblems, solves the subproblems recursively, and then combines their solutions to solve the original problem./7
+What is a backtracking algorithm?/An algorithmic technique for solving problems by systematically searching through all possible configurations until a solution is found or all possibilities have been explored./8
+What is a branch and bound algorithm?/An algorithmic technique for solving optimization problems by partitioning the search space into smaller subspaces and bounding the search within those subspaces./9
+What is a brute force algorithm?/A straightforward approach to problem-solving that exhaustively tries every possible solution until a satisfactory one is found./5
+What is a heuristic algorithm?/A problem-solving technique that employs a practical method, not necessarily optimal or perfect, to find a solution to a problem./6
+What is a randomized algorithm?/An algorithm that uses a random number at least once during the computation to make a decision or solve a problem./7
+What is a parallel algorithm?/An algorithm designed to simultaneously execute multiple operations or tasks to solve a problem more quickly by taking advantage of parallel processing./8
+What is a quantum algorithm?/An algorithm that leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computation more efficiently than classical algorithms./9
+What is a hashing function?/A function that converts an input (or 'key') into a fixed-size string of bytes, typically a hash value, using a mathematical algorithm./5
+What is collision resolution?/The process of handling collisions that occur when two distinct inputs produce the same hash value in a hash table./6
+What is linear probing?/A collision resolution technique where if a collision occurs, the next empty slot in the hash table is searched for to store the collided element./7
+What is quadratic probing?/A collision resolution technique that uses a quadratic function to probe for the next empty slot in the hash table when a collision occurs./8
+What is chaining?/A collision resolution technique where each slot of the hash table is a linked list, and collided elements are stored in the same slot by appending them to the list./9
+What is open addressing?/A collision resolution technique where all elements are stored in the hash table itself, and when a collision occurs, another slot is searched for in the same table./5
+What is rehashing?/The process of increasing the size of the hash table and recalculating the hash values of all elements to distribute them evenly across the new table./6
+What is a bloom filter?/A probabilistic data structure used to test whether an element is a member of a set, which may return false positives but not false negatives./7
+What is a cuckoo hashing?/A hashing technique where each key can be stored in one of two possible locations, and when a collision occurs, the key is 'kicked out' to its alternate location./8
+What is a perfect hash function?/A hashing function that generates a unique hash value for each possible input, eliminating collisions in the hash table./9
+What is a trie?/A tree data structure used for storing strings, where each node represents a single character of the string./5
+What is a suffix tree?/A compressed trie data structure used for storing all the suffixes of a given text string in a way that allows for efficient substring searches./6
+What is a radix tree?/A trie-like data structure used for storing a set of keys, typically strings, where each node represents one digit of the key in base-n representation./7
+What is a suffix array?/An array of all the suffixes of a given text string, sorted in lexicographic order, used for efficient substring searches and pattern matching./8
+What is a patricia tree?/A compressed trie data structure used for storing a set of strings, where each edge represents a string fragment instead of a single character./9
+What is a minimum spanning tree?/A spanning tree of a weighted graph that has the smallest possible sum of edge weights./5
+What is Prim's algorithm?/A greedy algorithm used to find the minimum spanning tree of a connected, undirected graph with weighted edges./6
+What is Kruskal's algorithm?/A greedy algorithm used to find the minimum spanning tree of a connected, undirected graph with weighted edges./7
+What is Dijkstra's algorithm?/A greedy algorithm used to find the shortest path from a source vertex to all other vertices in a graph with non-negative edge weights./8
+What is Bellman-Ford algorithm?/A dynamic programming algorithm used to find the shortest paths from a source vertex to all other vertices in a graph with negative edge weights./9
+What is Floyd-Warshall algorithm?/A dynamic programming algorithm used to find the shortest paths between all pairs of vertices in a weighted graph, even with negative edge weights./5
+What is Johnson's algorithm?/A dynamic programming algorithm used to find the shortest paths between all pairs of vertices in a weighted graph with both positive and negative edge weights./6
+What is Ford-Fulkerson algorithm?/A greedy algorithm used to find the maximum flow in a flow network, representing the maximum amount of flow that can be sent from a source to a sink./7
+What is Edmonds-Karp algorithm?/A variation of the Ford-Fulkerson algorithm that uses BFS to find augmenting paths, improving the runtime of the original algorithm./8
+What is Dinitz's algorithm?/A variation of the Edmonds-Karp algorithm that uses layered networks to find augmenting paths, further improving the runtime./9
+What is a bipartite graph?/A graph whose vertices can be divided into two disjoint sets such that no two vertices within the same set are adjacent./5
+What is graph coloring?/The assignment of labels (or 'colors') to the vertices of a graph in such a way that no two adjacent vertices have the same color./6
+What is the chromatic number?/The smallest number of colors needed to color the vertices of a graph such that no two adjacent vertices have the same color./7
+What is Hamiltonian cycle?/A cycle that visits every vertex of a graph exactly once, except for the starting vertex which is visited twice./8
+What is Eulerian cycle?/A cycle that visits every edge of a graph exactly once, returning to the starting point without any edges left unvisited./9
+What is a topological sort?/A sorting algorithm used to arrange the vertices of a directed graph into a linear ordering such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering./5
+What is Tarjan's algorithm?/An algorithm used to find strongly connected components in a directed graph, which partitions the vertices into subsets such that each vertex is reachable from every other vertex in the same subset./6
+What is Kosaraju's algorithm?/An algorithm used to find strongly connected components in a directed graph, which first performs a DFS on the reverse graph to determine the order of finishing times of vertices, then applies DFS again on the original graph./7
+What is Dinic's algorithm?/A network flow algorithm used to find the maximum flow in a flow network, which improves upon the Ford-Fulkerson algorithm by using a layered network and blocking flow paths./8
+What is Hopcroft-Karp algorithm?/An algorithm used to find the maximum cardinality matching in a bipartite graph, which runs in O(sqrt(V) * E) time./9
+What is Karger's algorithm?/A randomized algorithm used to find a minimum cut in an undirected graph by iteratively contracting randomly chosen edges until only two vertices remain./5
+What is the stable marriage problem?/A problem that seeks to find a stable matching between two sets of elements, each with their own preferences, such that no pair of elements prefers each other over their current partners./6
+What is dynamic programming?/A method for solving complex problems by breaking them down into simpler subproblems and solving each subproblem only once./7
+What is a greedy algorithm?/An algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum./8
+What is a divide and conquer algorithm?/An algorithm that breaks a problem into smaller subproblems, solves the subproblems recursively, and then combines their solutions to solve the original problem./9
+What is a backtracking algorithm?/An algorithmic technique for solving problems by systematically searching through all possible configurations until a solution is found or all possibilities have been explored./5
+What is a branch and bound algorithm?/An algorithmic technique for solving optimization problems by partitioning the search space into smaller subspaces and bounding the search within those subspaces./6
+What is a brute force algorithm?/A straightforward approach to problem-solving that exhaustively tries every possible solution until a satisfactory one is found./7
+What is a heuristic algorithm?/A problem-solving technique that employs a practical method, not necessarily optimal or perfect, to find a solution to a problem./8
+What is a randomized algorithm?/An algorithm that uses a random number at least once during the computation to make a decision or solve a problem./9
+What is a parallel algorithm?/An algorithm designed to simultaneously execute multiple operations or tasks to solve a problem more quickly by taking advantage of parallel processing./5
+What is a quantum algorithm?/An algorithm that leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computation more efficiently than classical algorithms./6
+What is a hashing function?/A function that converts an input (or 'key') into a fixed-size string of bytes, typically a hash value, using a mathematical algorithm./7
+What is collision resolution?/The process of handling collisions that occur when two distinct inputs produce the same hash value in a hash table./8
+What is linear probing?/A collision resolution technique where if a collision occurs, the next empty slot in the hash table is searched for to store the collided element./9
+What is quadratic probing?/A collision resolution technique that uses a quadratic function to probe for the next empty slot in the hash table when a collision occurs./5
+What is chaining?/A collision resolution technique where each slot of the hash table is a linked list, and collided elements are stored in the same slot by appending them to the list./6
+What is open addressing?/A collision resolution technique where all elements are stored in the hash table itself, and when a collision occurs, another slot is searched for in the same table./7
+What is rehashing?/The process of increasing the size of the hash table and recalculating the hash values of all elements to distribute them evenly across the new table./8
+What is a bloom filter?/A probabilistic data structure used to test whether an element is a member of a set, which may return false positives but not false negatives./9
+What is a cuckoo hashing?/A hashing technique where each key can be stored in one of two possible locations, and when a collision occurs, the key is 'kicked out' to its alternate location./5
+What is a perfect hash function?/A hashing function that generates a unique hash value for each possible input, eliminating collisions in the hash table./6
+What is a trie?/A tree data structure used for storing strings, where each node represents a single character of the string./7
+What is a suffix tree?/A compressed trie data structure used for storing all the suffixes of a given text string in a way that allows for efficient substring searches./8
+What is a suffix array?/An array of all the suffixes of a given text string, sorted in lexicographic order, used for efficient substring searches and pattern matching./5
+What is a patricia tree?/A compressed trie data structure used for storing a set of strings, where each edge represents a string fragment instead of a single character./6
+What is a minimum spanning tree?/A spanning tree of a weighted graph that has the smallest possible sum of edge weights./7
+What is Prim's algorithm?/A greedy algorithm used to find the minimum spanning tree of a connected, undirected graph with weighted edges./8
+What is Kruskal's algorithm?/A greedy algorithm used to find the minimum spanning tree of a connected, undirected graph with weighted edges./9
+What is Dijkstra's algorithm?/A greedy algorithm used to find the shortest path from a source vertex to all other vertices in a graph with non-negative edge weights./5
+What is Bellman-Ford algorithm?/A dynamic programming algorithm used to find the shortest paths from a source vertex to all other vertices in a graph with negative edge weights./6
+What is Floyd-Warshall algorithm?/A dynamic programming algorithm used to find the shortest paths between all pairs of vertices in a weighted graph, even with negative edge weights./7
+What is Johnson's algorithm?/A dynamic programming algorithm used to find the shortest paths between all pairs of vertices in a weighted graph with both positive and negative edge weights./8
+What is Ford-Fulkerson algorithm?/A greedy algorithm used to find the maximum flow in a flow network, representing the maximum amount of flow that can be sent from a source to a sink./9
+What is Edmonds-Karp algorithm?/A variation of the Ford-Fulkerson algorithm that uses BFS to find augmenting paths, improving the runtime of the original algorithm./5
+What is Dinitz's algorithm?/A variation of the Edmonds-Karp algorithm that uses layered networks to find augmenting paths, further improving the runtime./6
+What is a bipartite graph?/A graph whose vertices can be divided into two disjoint sets such that no two vertices within the same set are adjacent./7
+What is graph coloring?/The assignment of labels (or 'colors') to the vertices of a graph in such a way that no two adjacent vertices have the same color./8
+What is the chromatic number?/The smallest number of colors needed to color the vertices of a graph such that no two adjacent vertices have the same color./9
+What is Hamiltonian cycle?/A cycle that visits every vertex of a graph exactly once, except for the starting vertex which is visited twice./5
+What is Eulerian cycle?/A cycle that visits every edge of a graph exactly once, returning to the starting point without any edges left unvisited./6
+What is a topological sort?/A sorting algorithm used to arrange the vertices of a directed graph into a linear ordering such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering./7
+What is Tarjan's algorithm?/An algorithm used to find strongly connected components in a directed graph, which partitions the vertices into subsets such that each vertex is reachable from every other vertex in the same subset./8
+What is Kosaraju's algorithm?/An algorithm used to find strongly connected components in a directed graph, which first performs a DFS on the reverse graph to determine the order of finishing times of vertices, then applies DFS again on the original graph./9
+What is Dinic's algorithm?/A network flow algorithm used to find the maximum flow in a flow network, which improves upon the Ford-Fulkerson algorithm by using a layered network and blocking flow paths./5
+What is Hopcroft-Karp algorithm?/An algorithm used to find the maximum cardinality matching in a bipartite graph, which runs in O(sqrt(V) * E) time./6
+What is Karger's algorithm?/A randomized algorithm used to find a minimum cut in an undirected graph by iteratively contracting randomly chosen edges until only two vertices remain./7
+What is the stable marriage problem?/A problem that seeks to find a stable matching between two sets of elements, each with their own preferences, such that no pair of elements prefers each other over their current partners./8
+What is dynamic programming?/A method for solving complex problems by breaking them down into simpler subproblems and solving each subproblem only once./9
+What is a greedy algorithm?/An algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum./5
+What is a divide and conquer algorithm?/An algorithm that breaks a problem into smaller subproblems, solves the subproblems recursively, and then combines their solutions to solve the original problem./6
+What is a backtracking algorithm?/An algorithmic technique for solving problems by systematically searching through all possible configurations until a solution is found or all possibilities have been explored./7
+What is a branch and bound algorithm?/An algorithmic technique for solving optimization problems by partitioning the search space into smaller subspaces and bounding the search within those subspaces./8
+What is a brute force algorithm?/A straightforward approach to problem-solving that exhaustively tries every possible solution until a satisfactory one is found./9
+What is a heuristic algorithm?/A problem-solving technique that employs a practical method, not necessarily optimal or perfect, to find a solution to a problem./5
+What is a randomized algorithm?/An algorithm that uses a random number at least once during the computation to make a decision or solve a problem./6
+What is a parallel algorithm?/An algorithm designed to simultaneously execute multiple operations or tasks to solve a problem more quickly by taking advantage of parallel processing./7
+What is a quantum algorithm?/An algorithm that leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computation more efficiently than classical algorithms./8
+What is a hashing function?/A function that converts an input (or 'key') into a fixed-size string of bytes, typically a hash value, using a mathematical algorithm./9
+What is collision resolution?/The process of handling collisions that occur when two distinct inputs produce the same hash value in a hash table./5
+What is linear probing?/A collision resolution technique where if a collision occurs, the next empty slot in the hash table is searched for to store the collided element./6
+What is quadratic probing?/A collision resolution technique that uses a quadratic function to probe for the next empty slot in the hash table when a collision occurs./7
+What is chaining?/A collision resolution technique where each slot of the hash table is a linked list, and collided elements are stored in the same slot by appending them to the list./8
+What is open addressing?/A collision resolution technique where all elements are stored in the hash table itself, and when a collision occurs, another slot is searched for in the same table./9
+What is rehashing?/The process of increasing the size of the hash table and recalculating the hash values of all elements to distribute them evenly across the new table./5
+What is a bloom filter?/A probabilistic data structure used to test whether an element is a member of a set, which may return false positives but not false negatives./6
+What is a cuckoo hashing?/A hashing technique where each key can be stored in one of two possible locations, and when a collision occurs, the key is 'kicked out' to its alternate location./7
+What is a perfect hash function?/A hashing function that generates a unique hash value for each possible input, eliminating collisions in the hash table./8
+What is a trie?/A tree data structure used for storing strings, where each node represents a single character of the string./9
+What is a suffix tree?/A compressed trie data structure used for storing all the suffixes of a given text string in a way that allows for efficient substring searches./5
+What is a suffix array?/An array of all the suffixes of a given text string, sorted in lexicographic order, used for efficient substring searches and pattern matching./7
+What is a patricia tree?/A compressed trie data structure used for storing a set of strings, where each edge represents a string fragment instead of a single character./8
+What is a minimum spanning tree?/A spanning tree of a weighted graph that has the smallest possible sum of edge weights./9
+What is Prim's algorithm?/A greedy algorithm used to find the minimum spanning tree of a connected, undirected graph with weighted edges./5
+What is Kruskal's algorithm?/A greedy algorithm used to find the minimum spanning tree of a connected, undirected graph with weighted edges./6
+What is Dijkstra's algorithm?/A greedy algorithm used to find the shortest path from a source vertex to all other vertices in a graph with non-negative edge weights./7
+What is Bellman-Ford algorithm?/A dynamic programming algorithm used to find the shortest paths from a source vertex to all other vertices in a graph with negative edge weights./8
+What is Floyd-Warshall algorithm?/A dynamic programming algorithm used to find the shortest paths between all pairs of vertices in a weighted graph, even with negative edge weights./9
+What is Johnson's algorithm?/A dynamic programming algorithm used to find the shortest paths between all pairs of vertices in a weighted graph with both positive and negative edge weights./5
+What is Ford-Fulkerson algorithm?/A greedy algorithm used to find the maximum flow in a flow network, representing the maximum amount of flow that can be sent from a source to a sink./6
+What is Edmonds-Karp algorithm?/A variation of the Ford-Fulkerson algorithm that uses BFS to find augmenting paths, improving the runtime of the original algorithm./7
+What is Dinitz's algorithm?/A variation of the Edmonds-Karp algorithm that uses layered networks to find augmenting paths, further improving the runtime./8
+What is a bipartite graph?/A graph whose vertices can be divided into two disjoint sets such that no two vertices within the same set are adjacent./9
+What is graph coloring?/The assignment of labels (or 'colors') to the vertices of a graph in such a way that no two adjacent vertices have the same color./5
+What is the chromatic number?/The smallest number of colors needed to color the vertices of a graph such that no two adjacent vertices have the same color./6
+What is dynamic programming?/A method for solving complex problems by breaking them down into simpler subproblems and solving each subproblem only once./5
+What is a greedy algorithm?/An algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum./6
+What is a divide and conquer algorithm?/An algorithm that breaks a problem into smaller subproblems, solves the subproblems recursively, and then combines their solutions to solve the original problem./7
+What is a backtracking algorithm?/An algorithmic technique for solving problems by systematically searching through all possible configurations until a solution is found or all possibilities have been explored./8
+What is a branch and bound algorithm?/An algorithmic technique for solving optimization problems by partitioning the search space into smaller subspaces and bounding the search within those subspaces./9
+What is a brute force algorithm?/A straightforward approach to problem-solving that exhaustively tries every possible solution until a satisfactory one is found./5
+What is a heuristic algorithm?/A problem-solving technique that employs a practical method, not necessarily optimal or perfect, to find a solution to a problem./6
+What is a randomized algorithm?/An algorithm that uses a random number at least once during the computation to make a decision or solve a problem./7
+What is a parallel algorithm?/An algorithm designed to simultaneously execute multiple operations or tasks to solve a problem more quickly by taking advantage of parallel processing./8
+What is a quantum algorithm?/An algorithm that leverages the principles of quantum mechanics, such as superposition and entanglement, to perform computation more efficiently than classical algorithms./9
+What is a hashing function?/A function that converts an input (or 'key') into a fixed-size string of bytes, typically a hash value, using a mathematical algorithm./5
+What is collision resolution?/The process of handling collisions that occur when two distinct inputs produce the same hash value in a hash table./6
+What is linear probing?/A collision resolution technique where if a collision occurs, the next empty slot in the hash table is searched for to store the collided element./7
+What is quadratic probing?/A collision resolution technique that uses a quadratic function to probe for the next empty slot in the hash table when a collision occurs./8
+What is chaining?/A collision resolution technique where each slot of the hash table is a linked list, and collided elements are stored in the same slot by appending them to the list./9
+What is open addressing?/A collision resolution technique where all elements are stored in the hash table itself, and when a collision occurs, another slot is searched for in the same table./5
+What is rehashing?/The process of increasing the size of the hash table and recalculating the hash values of all elements to distribute them evenly across the new table./6
+What is a bloom filter?/A probabilistic data structure used to test whether an element is a member of a set, which may return false positives but not false negatives./7
+What is a cuckoo hashing?/A hashing technique where each key can be stored in one of two possible locations, and when a collision occurs, the key is 'kicked out' to its alternate location./8
+What is a perfect hash function?/A hashing function that generates a unique hash value for each possible input, eliminating collisions in the hash table./9
+What is a trie?/A tree data structure used for storing strings, where each node represents a single character of the string./5
+What is a suffix tree?/A compressed trie data structure used for storing all the suffixes of a given text string in a way that allows for efficient substring searches./6
+What is a suffix array?/An array of all the suffixes of a given text string, sorted in lexicographic order, used for efficient substring searches and pattern matching./8
+What is a patricia tree?/A compressed trie data structure used for storing a set of strings, where each edge represents a string fragment instead of a single character./9
+What is a minimum spanning tree?/A spanning tree of a weighted graph that has the smallest possible sum of edge weights./5
+What is Prim's algorithm?/A greedy algorithm used to find the minimum spanning tree of a connected, undirected graph with weighted edges./6
+What is Kruskal's algorithm?/A greedy algorithm used to find the minimum spanning tree of a connected, undirected graph with weighted edges./7
+What is Dijkstra's algorithm?/A greedy algorithm used to find the shortest path from a source vertex to all other vertices in a graph with non-negative edge weights./8
